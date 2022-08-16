@@ -8,6 +8,6 @@ A desktop simulation of the famous Conway’s Game of Life, the zero-player game
 - The speed of the automatic evolution is adjustable via a slider.
 - The status of generation number and cell count are live updated on the game panel.
 
-<img alt="demo-1" src="demos/demo-1.png">
-<img alt="demo-2" src="demos/demo-2.png">
-<img alt="demo-3" src="demos/demo-3.png">
+<img alt="demo-1" src="demos/demo-1.png" width="400">
+<img alt="demo-2" src="demos/demo-2.png" width="400">
+<img alt="demo-3" src="demos/demo-3.png" width="400">
